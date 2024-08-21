@@ -1,0 +1,6 @@
+
+1722788247992: ::ffff:127.0.0.1: GET : /api/users
+1722788362003: ::ffff:127.0.0.1: POST : /api/users
+1722788428160: ::ffff:127.0.0.1: POST : /api/users
+1722788445838: ::ffff:127.0.0.1: GET : /api/users
+1722788502664: ::ffff:127.0.0.1: GET : /api/users/66afaa4ceb94bcbac116e236

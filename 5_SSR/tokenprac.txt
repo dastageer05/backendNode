@@ -1,0 +1,10 @@
+//
+//
+
+
+// index line 5 update import fun name which is from middle auth
+//in same file use(newly create fun)
+//remove old called fun , give a role insted of it
+
+// model/user  add new schema fun to define role
+
