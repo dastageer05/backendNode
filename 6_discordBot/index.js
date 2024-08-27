@@ -21,4 +21,4 @@ client.on("interactionCreate", (interaction)=>{
     interaction.reply("Pong!")
 })
 
-client.login("MTI3NTcxMjAwNjU0MzkwMDY4NA.G319sn.LIcTkqrFiKS417Kq3MrvfVRRGFmHVTiMlpaE5U")
+client.login("token id")
